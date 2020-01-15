@@ -1,2 +1,17 @@
-change1
-change2
+{
+  "id": 31,
+  "name": "Adilet",
+  "last_name": "Joldoshbek uulu",
+  "city": "Bishkek",
+  "department": "Python",
+  "status": "Student",
+  "mentor":[
+    {
+      "id": 12
+      "name": "Dimash",
+      "department": "Python",
+      "status": "Mentor",
+      "student_id": 31,
+    }
+  ]
+}
